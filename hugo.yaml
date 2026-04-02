@@ -3,3 +3,7 @@ locale: en-us
 title: Peter Chiang
 paginate: 5
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
+    
