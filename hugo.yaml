@@ -1,0 +1,5 @@
+baseURL: "https://peterchiang.com/"
+locale: en-us
+title: Peter Chiang
+paginate: 5
+theme: ["PaperMod"]
